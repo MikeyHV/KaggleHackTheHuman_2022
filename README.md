@@ -1,8 +1,9 @@
 # KaggleHackTheHuman_2022  
-
+<pre> 
 Preliminary Directory structure:  
   | main.py  
-  | ---- Data # not included in github, ignored via .gitignore  
+  | ---- data # not included in github, ignored via .gitignore  
            | --- Kaggle Data  
-  | ---- Ipynb # extraneous ipynotebooks for data exploration  
+  | ---- ipynbs # extraneous ipynotebooks for data exploration  
            | --- various ipynbs  
+</pre> 
